@@ -1,5 +1,9 @@
 # sushi_dishes
 
+＊このリポジトリは、友人から送られてきた問題を解いたものです。  
+
+
+
 ![6-1](https://user-images.githubusercontent.com/24310356/58189985-8237ba00-7cf6-11e9-946f-c21b70384be2.gif)
 
 
