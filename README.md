@@ -1,6 +1,7 @@
 # sushi_dishes
 
-https://cdn.discordapp.com/attachments/360072531496927247/580052052646821888/6-1.gif
+![6-1](https://user-images.githubusercontent.com/24310356/58189985-8237ba00-7cf6-11e9-946f-c21b70384be2.gif)
+
 
 上下に分岐するようなラインの回転ずしを考えます。
 お皿は、板前さんのいる右端から左端に流れていきます。
